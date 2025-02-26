@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "emmadilanyanart-backend",
   "version": "0.1.0",
   "private": true,
-  "description": "A Strapi application",
+  "description": "Backend of emmadilanyanart.am",
   "scripts": {
     "build": "strapi build",
     "deploy": "strapi deploy",
