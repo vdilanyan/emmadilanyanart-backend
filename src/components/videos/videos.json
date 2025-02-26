@@ -3,7 +3,7 @@
   "info": {
     "displayName": "Videos",
     "icon": "play",
-    "description": ""
+    "description": "component for adding YouTube video URLs"
   },
   "options": {},
   "attributes": {
