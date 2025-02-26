@@ -3,7 +3,7 @@ import type { Schema, Struct } from '@strapi/strapi';
 export interface VideosVideos extends Struct.ComponentSchema {
   collectionName: 'components_videos_videos';
   info: {
-    description: '';
+    description: 'component for adding YouTube video URLs';
     displayName: 'Videos';
     icon: 'play';
   };
